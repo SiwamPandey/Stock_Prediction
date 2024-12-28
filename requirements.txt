@@ -79,7 +79,6 @@ ml-dtypes==0.4.0
 mthrottle==0.0.2
 multitasking==0.0.11
 murmurhash==1.0.10
-mysqlclient==2.2.1
 namex==0.0.8
 nest-asyncio==1.6.0
 nsetools==1.0.11
