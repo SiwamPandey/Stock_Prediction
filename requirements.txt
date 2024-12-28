@@ -113,7 +113,6 @@ pyppeteer==2.0.0
 pyquery==2.0.1
 python-dateutil==2.9.0.post0
 pytz==2023.3.post1
-pywin32==306
 pyzmq==26.2.0
 razorpay==1.4.1
 referencing==0.35.1
